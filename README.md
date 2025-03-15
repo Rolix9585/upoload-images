@@ -1,2 +1,0 @@
-# upoload-images
-image
